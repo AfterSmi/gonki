@@ -11,9 +11,7 @@ public class main {
 		f.add(new Road());
 		f.setVisible(true);
 		
-		
-		
-		
+
 
 	}
 
