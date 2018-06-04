@@ -1,5 +1,7 @@
 package car;
 ///////////ЗАмена из хаба
+//!!!!!!!!!!!!!!!!
+//D2 Обновил
 import javax.swing.*;
 ///изменил в веб
 public class main {
@@ -11,7 +13,9 @@ public class main {
 		f.setSize(1200, 838);
 		f.add(new Road());
 		f.setVisible(true);
-		
+        System.out.println();
+
+        System.out.println();
 
 
 	}
